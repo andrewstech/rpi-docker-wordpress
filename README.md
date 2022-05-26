@@ -1,7 +1,7 @@
 rpi-docker-wordpress
 ======================
 
-Out-of-the-box Wordpress docker image for Raspberry Pi (based Raspbian)
+Out-of-the-box Wordpress docker image for Raspberry Pi (based ubuntu)
 
 
 Usage
